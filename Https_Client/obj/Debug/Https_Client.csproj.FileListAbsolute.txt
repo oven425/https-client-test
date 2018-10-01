@@ -1,0 +1,6 @@
+C:\Users\QQ\source\repos\Https_Client\Https_Client\bin\Debug\Https_Client.exe
+C:\Users\QQ\source\repos\Https_Client\Https_Client\bin\Debug\Https_Client.pdb
+C:\Users\QQ\source\repos\Https_Client\Https_Client\obj\Debug\Https_Client.csprojAssemblyReference.cache
+C:\Users\QQ\source\repos\Https_Client\Https_Client\obj\Debug\Https_Client.csproj.CoreCompileInputs.cache
+C:\Users\QQ\source\repos\Https_Client\Https_Client\obj\Debug\Https_Client.exe
+C:\Users\QQ\source\repos\Https_Client\Https_Client\obj\Debug\Https_Client.pdb
